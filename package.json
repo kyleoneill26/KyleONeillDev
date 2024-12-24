@@ -1,7 +1,7 @@
 {
   "name": "kyleoneilldev",
   "version": "1.0.0",
-  "homepage": "https://kyleoneill26.github.io",
+  "homepage": "https://kyleoneill26.github.io/KyleONeillDev/",
   "scripts": {
     "start": "cd frontend && npm start",
     "deploy": "cd frontend && npm run deploy",
