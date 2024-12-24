@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KyleONeillDev/static/css/main.b30b441c.css",
+    "main.js": "/KyleONeillDev/static/js/main.a4f96156.js",
+    "index.html": "/KyleONeillDev/index.html",
+    "main.b30b441c.css.map": "/KyleONeillDev/static/css/main.b30b441c.css.map",
+    "main.a4f96156.js.map": "/KyleONeillDev/static/js/main.a4f96156.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b30b441c.css",
+    "static/js/main.a4f96156.js"
+  ]
+}
