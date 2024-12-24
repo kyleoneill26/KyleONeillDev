@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/KyleONeillDev/static/css/main.bdb848f2.css",
+    "main.css": "/KyleONeillDev/static/css/main.0cc2be11.css",
     "main.js": "/KyleONeillDev/static/js/main.a44a8e1f.js",
     "index.html": "/KyleONeillDev/index.html",
-    "main.bdb848f2.css.map": "/KyleONeillDev/static/css/main.bdb848f2.css.map",
+    "main.0cc2be11.css.map": "/KyleONeillDev/static/css/main.0cc2be11.css.map",
     "main.a44a8e1f.js.map": "/KyleONeillDev/static/js/main.a44a8e1f.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdb848f2.css",
+    "static/css/main.0cc2be11.css",
     "static/js/main.a44a8e1f.js"
   ]
 }
