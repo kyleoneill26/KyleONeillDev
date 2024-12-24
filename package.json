@@ -1,6 +1,23 @@
 {
+  "name": "kyleoneilldev",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "cd frontend && npm start",
+    "deploy": "cd frontend && npm run deploy",
+    "install-all": "npm install && cd frontend && npm install"
+  },
+  "main": "index.js",
   "dependencies": {
-    "@fortawesome/free-brands-svg-icons": "^6.7.2",
-    "@fortawesome/react-fontawesome": "^0.2.2"
-  }
+    "js-tokens": "^4.0.0",
+    "loose-envify": "^1.4.0",
+    "object-assign": "^4.1.1",
+    "prop-types": "^15.8.1",
+    "react": "^19.0.0",
+    "react-is": "^16.13.1"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
